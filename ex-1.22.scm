@@ -49,4 +49,10 @@
      ) 
 )
 
-(search-primes 100 5)
+(search-primes 1000 3)
+
+(search-primes 10000 3)
+
+(search-primes 100000 3)
+
+(search-primes 1000000 3)
